@@ -1,0 +1,9 @@
+{
+"name":"default-browser-name",
+"description":"node.js script to get name of default browser",
+"version":"0.0.1",
+"main":"default-browser-name.js",
+"license":"CC0-1.0",
+"author":"milahu",
+"homepage":"https://github.com/milahu/default-browser-name"
+}
